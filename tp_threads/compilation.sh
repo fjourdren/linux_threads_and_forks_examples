@@ -1,0 +1,1 @@
+gcc -Wall -W -Wextra -Werror -Wconversion -pthread -O0 -g -std=c99 $1 -o $2
